@@ -42,3 +42,4 @@ Over 2.5million people affected and houses were submerged by flood. The road ser
 Number of displaced persons 
 
 Over 1.3 million people are affected by the widespread of the flood in Nigeria, houses been damage, infrastructure damage, farmlands been destroyed, which resulted for the government to open internally displaced person camps across the states to temporary host the displaced people
+![Number of displaced persons per states_1](https://user-images.githubusercontent.com/116484191/209192047-4b33902f-eff2-4952-b162-9e0ce2cb3f11.jpg)
