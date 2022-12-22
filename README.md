@@ -33,3 +33,8 @@ in 2022 Nigeria witness a constant heavy rain, overflow of local rivers which re
 
 III, Lagdo Dam: 
 This dam is located in Cameroun, Nigeria neighboring country, each year the water level of the dam has rose dramatically and the spill was overflowed, so Cameroonian officials had to release water from the the dam to avoid breakage of the dam which, he stated, would have been more disastrous. The release large amount of water to ensure the dam remains in one piece, however the follow protocol ,while Nigeria counterpart hasn’t built a dam to take or defense mechanism against the excessive water been release from lagdo dam, anytime the water is been release the water doesn’t have any channel to be store but the water will just flow without control neither direction which will end up savaging of communities in Nigeria
+
+Number of households affected
+
+Over 2.5million people affected and houses were submerged by flood. The road served as link to between North and south parts of the country and many passengers were being stranded as well.
+
