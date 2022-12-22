@@ -1,4 +1,32 @@
 # An-Analysis-on-States-Affected-by-Flood-in-Nigeria
+
+Table of contents
+
+•Introduction
+
+•Data Gathering
+
+•Data cleaning
+
+•Data visualization
+
+•Most affected states
+
+• Causes of flood
+
+•Number of households
+
+•Number of internally displaced persons
+
+•Damage and diseases
+
+•Solution
+
+•References
+
+
+
+
 Introduction
 
 In the year of 2022 Nigeria witnessed one of the worst natural disasters cause by flood, which ravaged many communities and caused a lot of damages of infrastructure, properties, farm land, crops, livestock, disrupt of logistics and lost of lives in Nigeria.
