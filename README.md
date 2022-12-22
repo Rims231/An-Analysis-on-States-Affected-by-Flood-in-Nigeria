@@ -20,7 +20,7 @@ Data visualization
 
 Exported excel file to power bi and I created a dashboard for a better display of my findings and communicate the analysis
 
-
+![new flood project-1_1](https://user-images.githubusercontent.com/116484191/209190215-ebd65fce-ad03-42fa-843a-d44fbb39beaa.jpg)
 
 Causes of flood
 
