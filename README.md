@@ -1,8 +1,8 @@
 # An-Analysis-on-States-Affected-by-Flood-in-Nigeria
 Introduction
 
-In the year of 2022 Nigeria witness one of the worst natural disasters cause by flood, which ravaged many communities and causes a lot of damages of infrastructure, properties, farm land, crops, livestock, disrupt of logistics and lost of lives in Nigeria.
-I pick interest in is project to analysis the damages and diseases cause by the flood in most of the Affected states in Nigeria 
+In the year of 2022 Nigeria witnessed one of the worst natural disasters cause by flood, which ravaged many communities and caused a lot of damages of infrastructure, properties, farm land, crops, livestock, disrupt of logistics and lost of lives in Nigeria.
+I pick interest in this project to analysis the damages and diseases cause by the flood in most of the Affected states in Nigeria 
 
 Data gathering
 
@@ -10,7 +10,7 @@ Data gathering was done by me, I scraped a lot of pages from reliable sources, a
 
 Data Cleaning
 
-After gathering my data, I had to started to clean my data to sort for the most important relevant information then drop the irrelevant information in the reach
+After gathering my data, I had to started to clean my data to sort for the most important relevant information(relevant and important are alomost similar in meaning)  then drop the irrelevant information in the research.
 
 Data storing 
 
@@ -22,14 +22,19 @@ Exported excel file to power bi and I created a dashboard for a better display o
 
 ![new flood project-1_1](https://user-images.githubusercontent.com/116484191/209190215-ebd65fce-ad03-42fa-843a-d44fbb39beaa.jpg)
 
+Most affected states
+
+Some flood-affected states include Bayelsa, Kogi, Delta, Gombe, Enugu, Kano, Adamawa, Jigawa,Delta,Anambra, Benue,Yobe, and Borno. This year’s flood is believed to be the worst that Nigeria has experienced in decades, as it has created humanitarian crises and compounded economic challenges in the affected areas. Some communities are inaccessible and cut off from goods and services. In September, Rann and Damasak local government areas in Borno State, host areas of many Internally Displaced Persons (IDPs), could only be accessed by helicopter, and commuters along Lokoja-Abuja road were left stranded because of the flood. The flood also resulted in a major tragedy in Anambra State, where people had to rely on boats as major roads had been destroyed.
+
+
 Causes of flood
 
 I, Climate Change:
 A climate change refers to long-term shifts in temperatures and weather patterns, these shifts may be natural as variations in the solar cycle.
-  A climate modeling study by world weather attribution project estimated that floods were render far more likely and much more intense the model from June to September rainfall in lake chad and lower Niger river catchment areas, looking at the total rain fall and intense rain weeks
+  A climate modeling study by world weather attribution project estimated that floods were render far more likely and much more intense. The model from June to September rainfall in lake chad and lower Niger river catchment areas, looking at the total rain fall and intense rain weeks
 
 II, Heavy rainfall: 
-in 2022 Nigeria witness a constant heavy rain, overflow of local rivers which resulted to excess water on ground which can’t be control, caused the flooded
+in 2022 Nigeria witness a constant heavy rain, overflow of local rivers which resulted to excess water on ground which can’t be control, caused by the flood
 
 III, Lagdo Dam: 
 This dam is located in Cameroun, Nigeria neighboring country, each year the water level of the dam has rose dramatically and the spill was overflowed, so Cameroonian officials had to release water from the the dam to avoid breakage of the dam which, he stated, would have been more disastrous. The release large amount of water to ensure the dam remains in one piece, however the follow protocol ,while Nigeria counterpart hasn’t built a dam to take or defense mechanism against the excessive water been release from lagdo dam, anytime the water is been release the water doesn’t have any channel to be store but the water will just flow without control neither direction which will end up savaging of communities in Nigeria
@@ -60,20 +65,24 @@ Immediate impacts of flooding in Nigeria have left alot of people speechless and
 Solution
 
 
-In order to prevent the reoccurrence of this disaster in the future, the government needs to do some of the following:
-The first culprit of flooding is always the big word ‘Climate Change’, which is basically the changing weather patterns associated with global warming. It is obvious that the climatic conditions are changing; however, there are many related, natural, and manmade factors that contribute to flooding. One major cause of perennial flooding in Nigeria is ‘river and ocean surges’ by tides, pushing water to overflow its boundaries downstream. The states around the major rivers like Benue, Kogi, Anambra, Adamawa, and others are the most affected states. The Rivers Niger and Benue overflow their banks into neighboring communities basically because their depth is silted and shallow and not able to accommodate the volume of water that flows downstream and consequently runs off into the dry lands, causing flooding. Similarly, the ocean also experiences such overflows during heavy rains or winds. Meanwhile, in Nigeria, it has been confirmed that the release of water from the Lagdo Dam in Northern Cameroon also contributes to the flooding.
+In order to prevent the reoccurrence of this disaster in the future, the governments need to do some of the following: 
 
-It is noteworthy that the National Emergency Management Agency (NEMA) and other associated agencies have been reactive in handling issues of flooding rather than being proactive. What is usually done can be described as post-disaster management. It is very sad that the regular pattern has been that NEMA waits until there is a disaster, then they go and distribute mattresses, foodstuffs, and paltry sums to the flood victims. I would also like to confirm that the Nigerian Meteorological Agency (NIMET) releases regular weather data and predicts the rainfall pattern which is seldom used for planning by the agencies of government in charge of disaster management. Given the extent to which the 2022 flooding has devastated the people and the environment and left many people hopeless, it is important to declare it a national emergency.
+The first culprit of flooding is always the big word ‘Climate Change’, which is basically the changed weather patterns associated with global warming. It is obvious that the climatic conditions are changing; however, there are many related, natural, and manmade factors that contribute to flooding. One major cause of perennial flooding in Nigeria is ‘river and ocean surges’ by tides, pushing water to overflow it downstream boundaries. The states around the major rivers like Benue, Kogi, Anambra, Adamawa, and others are the most affected states. The River Niger and Benue overflow their banks into neighboring communities basically because their depth is silted and shallow, making it difficult  to accommodate the volume of water that flows downstream and consequently runs off into the dry lands, causing flooding.
+    Similarly, the ocean also experiences such overflows during heavy rains or winds. Meanwhile, in Nigeria, it has been confirmed that the release of water from the Lagdo Dam in Northern Cameroon also contributes to the flooding.
+It is noteworthy that the National Emergency Management Agency (NEMA) and other associated agencies have been reactive in handling issues of flooding rather than being proactive. What is usually done can be described as post-disaster management. It is very sad that the regular pattern has been that NEMA waits until there is a disaster, then they go and distribute mattresses, foodstuffs, and paltry sums to the flood victims. I would also like to confirm that the Nigerian Meteorological Agency (NIMET) releases regular weather data and predicts the rainfall pattern which is seldom used for planning by the agencies of the government in charge of disaster management. Given the extent to which the 2022 flooding has devastated the people and the environment, this has left many people hopeless, it is important to declare it a national emergency.
+To forestall further threats to food security, the economy, health, security, and the environment, the government must adopt the following recommendations as a way to reduce the impact of perennial flooding in Nigeria.
+First, NEMA must begin to act proactively by utilizing geographical information systems and metrological data to improve their early warning systems and reduce people’s exposure to flood risk. The communication must be timely and effective and adequate provisions must be made in case of an emergency evacuation.
 
-To forestall further threats to food security, the economy, health, security, and the environment, the government must adopt the following recommendations as a way to reduce the impact of perennial flooding in Nigeria. First, NEMA must begin to act proactively by utilizing geographical information systems and metrological data to improve their early warning systems and reduce people’s exposure to flood risk. The communication must be timely and effective and adequate provisions must be made in case of an emergency evacuation. Secondly, the Nigerian government must begin to consider the construction of a buffer dam to accommodate excess water from the Lagdo dam in Cameroon. This is very critical given that aside from dam absorbing excess water, a buffer dam will provide irrigation for thousands of hectares of land, stimulate fishing, and most likely support the generation of electricity. Thirdly, the government must invest in the dredging of the major rivers to accommodate high volume of water, promote inland waterways as well as capture fishing. Finally, the government must build, reactivate, and maintain the urban drainage systems, and prevent people from erecting structures on waterways.
-	
-  Building of canal along the flood prone channels in order to create an avenue for the snake-like flood to pass peacefully without causing havoc to any obstruction on the way.
-	
-  Widening of gutters and pathways – the gutters and water ways need to be cleared of dirt, debris and other items. Each local authorities should be compelled to widen as a matter of urgency, and if possible pull down structures that are obstructing water ways across the country.
-	
-  Building of dikes and levees – Dikes and levees are embankments constructed to prevent flooding. Levees may be formed naturally or artificially. They prevent the water from overflowing and flooding surrounding areas. Dikes are walls that hold back the sea.
-	
-  Water Harvesting – this generally refers to the collection of rainstorm-generated runoff from a particular area (a catchment) in order to provide water for human, animal, or crop use. This would come handy during the dry season when water are scarce.
+Secondly, the Nigerian government must begin to consider the construction of a buffer dam to accommodate excess water from the Lagdo dam in Cameroon. This is very critical given that aside from the dam absorbing excess water, a buffer dam will provide irrigation for thousands of hectares of land, stimulate fishing, and most likely support the generation of electricity.Widening of gutters and pathways – the gutters and water ways need to be cleared of dirt, debris and other items. Each local authorities should be compelled to widen as a matter of urgency, and if possible pull down structures that are obstructing water ways across the country.
+Building of dikes and levees – Dikes and levees are embankments constructed to prevent flooding. Levees may be formed naturally or artificially. They prevent the water from overflowing and flooding surrounding areas. Dikes are walls that hold back the sea.
+Water Harvesting – this generally refers to the collection of rainstorm-generated runoff from a particular area (a catchment) in order to provide water for human, animal, or crop use. This would come handy during the dry season when water is scarce..
+
+Thirdly, the government must invest in the dredging of the major rivers to accommodate high volume of water, promote inland waterways as well as capture fishing.
+
+Finally, the government must build, reactivate, and maintain the urban drainage systems, and prevent people from erecting structures on waterways.
+Building of canals along the flood prone channels in order to create an avenue for the snake-like flood to pass peacefully without causing havoc to any obstruction on the way.
+
+
 
 Reference
 
