@@ -38,3 +38,7 @@ Number of households affected
 
 Over 2.5million people affected and houses were submerged by flood. The road served as link to between North and south parts of the country and many passengers were being stranded as well.
 ![House holds by states(3)_1](https://user-images.githubusercontent.com/116484191/209191375-1a6579a2-eafe-49d9-8a80-a8f02efe8e34.jpg)
+
+Number of displaced persons 
+
+Over 1.3 million people are affected by the widespread of the flood in Nigeria, houses been damage, infrastructure damage, farmlands been destroyed, which resulted for the government to open internally displaced person camps across the states to temporary host the displaced people
