@@ -47,4 +47,12 @@ Over 1.3 million people are affected by the widespread of the flood in Nigeria, 
 Damages done
 
 Immediate impacts of flooding in Nigeria have left alot of people speechless and in pain, over 602 people lost their lives, properties damage beyond repairs, destruction of crops, loss of livestock, and deterioration of health conditions owing to waterborne diseases such as cholera and typhoid and malaria. As communication links and infrastructure such as power plants, roads and bridges are damaged and disrupted, economic activities were on standstill, people are forced to leave their homes and normal life is disturbed.
-
+![d9f3ae27-1e02-34ff-b365-cba4413b4262](https://user-images.githubusercontent.com/116484191/209201912-ded2ab33-a123-4041-b2f0-4829a345104e.jpg)
+![download (1)](https://user-images.githubusercontent.com/116484191/209201916-02d7771d-b2fc-46be-bdbe-3e1c8c960e00.jpg)
+![download (2)](https://user-images.githubusercontent.com/116484191/209201919-cd501e95-5d08-469d-8cd8-2ca5a0a42489.jpg)
+![download (3)](https://user-images.githubusercontent.com/116484191/209201921-e76b0a91-aa75-491c-a5b2-47d2b4433639.jpg)
+![download (4)](https://user-images.githubusercontent.com/116484191/209201926-df563073-a065-4fd3-b64f-47200c9fa93c.jpg)
+![download (5)](https://user-images.githubusercontent.com/116484191/209201931-15d429f9-e49b-468c-b7ab-961415cfd516.jpg)
+![download (6)](https://user-images.githubusercontent.com/116484191/209201935-b03ce334-c7ac-4955-bec2-ca3f1cf7930d.jpg)
+![download](https://user-images.githubusercontent.com/116484191/209201936-6ad92c88-d414-4de3-8b4f-1176ec074dd7.jpg)
+![images](https://user-images.githubusercontent.com/116484191/209201937-d97fd5a5-e0e4-4034-96a3-5d6d6ae6b3ff.jpg)
