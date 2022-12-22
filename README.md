@@ -37,4 +37,4 @@ This dam is located in Cameroun, Nigeria neighboring country, each year the wate
 Number of households affected
 
 Over 2.5million people affected and houses were submerged by flood. The road served as link to between North and south parts of the country and many passengers were being stranded as well.
-
+![House holds by states(3)_1](https://user-images.githubusercontent.com/116484191/209191375-1a6579a2-eafe-49d9-8a80-a8f02efe8e34.jpg)
