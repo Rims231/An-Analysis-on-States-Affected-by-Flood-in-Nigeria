@@ -50,6 +50,8 @@ Exported excel file to power bi and I created a dashboard for a better display o
 
 ![new flood project-1_1](https://user-images.githubusercontent.com/116484191/209190215-ebd65fce-ad03-42fa-843a-d44fbb39beaa.jpg)
 
+https://app.powerbi.com/links/mZzM9TkSqo?ctid=0555a3c8-d48b-4efe-a689-635a104ea6c7&pbi_source=linkShare
+
 Most affected states
 
 Some flood-affected states include Bayelsa, Kogi, Delta, Gombe, Enugu, Kano, Adamawa, Jigawa,Delta,Anambra, Benue,Yobe, and Borno. This year’s flood is believed to be the worst that Nigeria has experienced in decades, as it has created humanitarian crises and compounded economic challenges in the affected areas. Some communities are inaccessible and cut off from goods and services. In September, Rann and Damasak local government areas in Borno State, host areas of many Internally Displaced Persons (IDPs), could only be accessed by helicopter, and commuters along Lokoja-Abuja road were left stranded because of the flood. The flood also resulted in a major tragedy in Anambra State, where people had to rely on boats as major roads had been destroyed.
