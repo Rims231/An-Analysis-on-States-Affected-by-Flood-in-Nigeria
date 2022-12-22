@@ -74,3 +74,11 @@ To forestall further threats to food security, the economy, health, security, an
   Building of dikes and levees – Dikes and levees are embankments constructed to prevent flooding. Levees may be formed naturally or artificially. They prevent the water from overflowing and flooding surrounding areas. Dikes are walls that hold back the sea.
 	
   Water Harvesting – this generally refers to the collection of rainstorm-generated runoff from a particular area (a catchment) in order to provide water for human, animal, or crop use. This would come handy during the dry season when water are scarce.
+
+Reference
+
+https://www.thisdaylive.com/index.php/2022/10/25/tackling-the-problem-of-flooding-in-nigeria/
+
+https://www.weforum.org/agenda/2022/10/nigeria-flood-rain-climate
+
+https://reliefweb.int/report/nigeria/nigeria-floods-response-flash-update-2-last-updated-1-november-2022
