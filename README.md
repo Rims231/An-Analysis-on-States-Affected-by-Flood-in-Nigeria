@@ -26,6 +26,7 @@ Most affected states
 
 Some flood-affected states include Bayelsa, Kogi, Delta, Gombe, Enugu, Kano, Adamawa, Jigawa,Delta,Anambra, Benue,Yobe, and Borno. This year’s flood is believed to be the worst that Nigeria has experienced in decades, as it has created humanitarian crises and compounded economic challenges in the affected areas. Some communities are inaccessible and cut off from goods and services. In September, Rann and Damasak local government areas in Borno State, host areas of many Internally Displaced Persons (IDPs), could only be accessed by helicopter, and commuters along Lokoja-Abuja road were left stranded because of the flood. The flood also resulted in a major tragedy in Anambra State, where people had to rely on boats as major roads had been destroyed.
 
+![popul_1](https://user-images.githubusercontent.com/116484191/209220589-48c26575-f16f-455e-8dac-a0fd64bb7193.jpg)
 
 Causes of flood
 
