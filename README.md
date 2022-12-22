@@ -82,3 +82,7 @@ https://www.thisdaylive.com/index.php/2022/10/25/tackling-the-problem-of-floodin
 https://www.weforum.org/agenda/2022/10/nigeria-flood-rain-climate
 
 https://reliefweb.int/report/nigeria/nigeria-floods-response-flash-update-2-last-updated-1-november-2022
+
+https://en.wikipedia.org/wiki/2022_Nigeria_floods#:~:text=The%202022%20Nigeria%20floods%20affected,land%20had%20also%20been%20affected.
+
+
