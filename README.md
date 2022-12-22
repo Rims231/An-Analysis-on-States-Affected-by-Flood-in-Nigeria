@@ -45,5 +45,6 @@ Over 1.3 million people are affected by the widespread of the flood in Nigeria, 
 ![Number of displaced persons per states_1](https://user-images.githubusercontent.com/116484191/209192047-4b33902f-eff2-4952-b162-9e0ce2cb3f11.jpg)
 
 Damages done
+
 Immediate impacts of flooding in Nigeria have left alot of people speechless and in pain, over 602 people lost their lives, properties damage beyond repairs, destruction of crops, loss of livestock, and deterioration of health conditions owing to waterborne diseases such as cholera and typhoid and malaria. As communication links and infrastructure such as power plants, roads and bridges are damaged and disrupted, economic activities were on standstill, people are forced to leave their homes and normal life is disturbed.
 
